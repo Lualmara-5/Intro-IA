@@ -1,4 +1,4 @@
-# Reto 1: Sistema Experto para Diagnóstico de Fallas en un Vehículo 🚗⚙️
+# Ejercicio 1: Sistema Experto para Diagnóstico de Fallas en un Vehículo 🚗⚙️
 
 ## 📌 Descripción del problema
 Un mecánico recibe vehículos con problemas y necesita un asistente experto que sugiera diagnósticos a partir de los síntomas observados. 
