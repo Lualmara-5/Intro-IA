@@ -1,4 +1,4 @@
-# Reto 2: Sistema Experto para Árboles Genealógicos 👨‍👩‍👧‍👦
+# Ejercicio 2: Sistema Experto para Árboles Genealógicos 👨‍👩‍👧‍👦
 
 ## 📌 Descripción del problema
 El estudio de los lazos familiares es fundamental en genealogía, derecho de herencias, biología y sociología.  
@@ -103,4 +103,4 @@ motor.declare(Madre(madre='carmen', hijo='laura'))
 
 ---
 
-📂 Este reto se debe implementar en Python utilizando la librería **experta**.  
+📂 Este reto se debe implementar en Python o Google Colab (Archivo .ipynb) utilizando la librería experta.
