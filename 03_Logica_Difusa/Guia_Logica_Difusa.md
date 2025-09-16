@@ -1,7 +1,9 @@
 # Guía — Lógica Difusa con `scikit-fuzzy`
 
 **Propósito:**
-Esta guía explica lo necesario para entender y extender el *notebook* que creaste sobre un **Sistema Difuso de Satisfacción en una Cafetería**. Incluye instalación, explicación de los conceptos principales, funciones de pertenencia, reglas, simulación, visualización y buenas prácticas para ajustar el sistema.
+Esta guía explica lo necesario para entender y extender el *notebook* sobre un **Sistema Difuso de Satisfacción en una Cafetería**. 
+
+Incluye instalación, explicación de los conceptos principales, funciones de pertenencia, reglas, simulación, visualización y buenas prácticas para ajustar el sistema.
 
 ---
 
@@ -263,4 +265,5 @@ print(sim.output['y'])
 ```
 
 ---
+
 
